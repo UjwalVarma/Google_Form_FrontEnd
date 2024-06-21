@@ -1,0 +1,78 @@
+/* Form container styles */
+.q-container {
+    background-color: #e7f6f9;
+    padding-top: 10px;
+}
+
+/* Form styles */
+.q-container form {
+    width: 40vw;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* Question card styles */
+.q-card {
+    background-color: #ffffff;
+    width: 100%;
+    min-height: 3rem;
+    padding: 30px;
+    border-radius: 18px;
+    border: 0.5px solid #feffff;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Label, span, and description styles */
+.q-card > div > label> span{
+    margin-left: 5px;
+        color: red;
+}
+.q-card > div > label,
+.q-card > p {
+    font-weight: 400;
+    color: rgb(32, 33, 36);
+}
+
+.q-card > div > label {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.q-card > p {
+    font-size: 13px;
+    line-height: 22px;
+}
+
+/* Input and textarea styles */
+.q-card > input,
+.q-card > textarea {
+    width: 50%;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid rgb(32, 33, 36);
+    line-height: 20px;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+/* Choice and choice label styles */
+.choice {
+    display: flex;
+    align-items: center;
+    width: 30%;
+    margin-top: 10px;
+}
+
+.choice > .choice-label {
+    margin-left: 20px;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+/* File input styles */
+.file-style {
+    border: none !important;
+}
