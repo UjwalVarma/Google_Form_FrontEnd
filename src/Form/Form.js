@@ -79,7 +79,6 @@ const Form = () => {
                   accept=".jpg, .jpeg, .png, .pdf"
                   onChange={(e) => handleChange(e, item.accessor_key)}
                 />
-                <label htmlFor={item.accessor_key}>Upload {item.label}</label>
               </div>
             ) : (
               <input

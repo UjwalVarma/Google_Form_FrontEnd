@@ -105,7 +105,7 @@ const Footer = () => {
                 React.createElement(
                     "span",
                     null,
-                    count === 11
+                    count === 6
                         ? React.createElement(
                             React.Fragment,
                             null,

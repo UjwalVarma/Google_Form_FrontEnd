@@ -7,7 +7,7 @@
                 "label": "First Name",
                 "required": true,
                 "description": "Enter your first name.",
-                "defaultValue": "Shashank",
+                "defaultValue": "Ujwal",
                 "accessor_key": "first_name"
             },
             {
@@ -22,7 +22,7 @@
                 "label": "Last Name",
                 "required": true,
                 "description": "Enter your last name.",
-                "defaultValue": "A K",
+                "defaultValue": "V",
                 "accessor_key": "last_name"
             },
             {
@@ -30,7 +30,7 @@
                 "label": "Contact Number",
                 "required": true,
                 "description": "Enter your primary contact number. Format: +(Country Code) [Number]",
-                "defaultValue": "+916363117574",
+                "defaultValue": "+917406520350",
                 "accessor_key": "contact_number"
             },
             {
@@ -38,7 +38,7 @@
                 "label": "Alternate Contact Number",
                 "required": true,
                 "description": "Enter an alternate contact number. Format: +(Country Code) [Number]",
-                "defaultValue": "+917019429142",
+                "defaultValue": "+919900611919",
                 "accessor_key": "alternate_contact_number"
             },
             {
@@ -46,7 +46,7 @@
                 "label": "Email ID",
                 "required": true,
                 "description": "Enter your email address. Format: example@example.com.",
-                "defaultValue": "sarthanur@gmail.com",
+                "defaultValue": "Ujwalvarma954@gmail.com@gmail.com",
                 "accessor_key": "email_id"
             },
             {
@@ -61,7 +61,7 @@
                 "label": "Age",
                 "required": true,
                 "description": "Enter your age. Format: 25",
-                "defaultValue": 21,
+                "defaultValue": 22,
                 "accessor_key": "age"
             },
             {
@@ -105,7 +105,7 @@
                 "label": "Current Residential Address",
                 "required": true,
                 "description": "Enter your current residential address in Full along with City, State, Postal Code",
-                "defaultValue": "Gopala, Shivamogga, Karnataka",
+                "defaultValue": "Binny Layout,Bangalore",
                 "accessor_key": "current_residential_address"
             },
             {
@@ -113,7 +113,7 @@
                 "label": "Permanent Residential Address",
                 "required": true,
                 "description": "Enter your Permanent Residential Address in Full along with City, State, Postal Code",
-                "defaultValue": "Gopala, Shivamogga, Karnataka",
+                "defaultValue": "Binny Layout,Bangalore",
                 "accessor_key": "permanent_residential_address"
             },
             {
@@ -164,7 +164,7 @@
                 "label": "Aadhaar Card Number",
                 "required": true,
                 "description": "Enter your Aadhaar card number.",
-                "defaultValue": "345667896543",
+                "defaultValue": "",
                 "accessor_key": "aadhaar_card_number"
             },
             {
@@ -179,7 +179,7 @@
                 "label": "PAN Card Number",
                 "required": true,
                 "description": "Enter your PAN card number.",
-                "defaultValue": "2345678967889",
+                "defaultValue": "",
                 "accessor_key": "pan_card_number"
             },
             {
